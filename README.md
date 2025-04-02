@@ -1,2 +1,2 @@
 # churn-prediction-ml
-Univeristy project predicting customer churn using machine learning. 
+University project predicting customer churn using machine learning. 
